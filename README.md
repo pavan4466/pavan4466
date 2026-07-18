@@ -1,181 +1,138 @@
+<!--
+**pavan4466/pavan4466** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-  <!--
-  **pavan4466/pavan4466** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-  -->
+<div align="center">
 
-  <div align="center">
+# Hi there, I'm Pavan Mallesh Vinjamuri 👋
 
-  # Hi there, I'm Pavan Mallesh Vinjamuri 👋
+### Data Analyst & AI Enthusiast | SQL • Python • Power BI • NLP 
 
-  ### Aspiring Data Analyst | SQL • Python • Power BI | Turning Data into Insights
+![Profile Views](https://komarev.com/ghpvc/?username=pavan4466&label=Views&color=0e75b6&style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-id)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@your-medium-id)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pavan4466)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=pavan4466&label=Views&color=0e75b6&style=for-the-badge)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pavan4466)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+</div>
 
-  </div>
+---
 
-  ---
+## 👨‍💻 About Me
 
-  ## 👨‍💻 About Me
+I am a recent **B.Tech graduate in Computer Science Engineering (Data Science)** from St. Ann's College of Engineering and Technology (Class of 2026), passionate about transforming raw data into actionable business insights and building intelligent systems. 
 
-  I'm a **B.Tech in Computer Science Engineering (Data Science)** graduate passionate about transforming raw data into actionable business insights. I
-  specialize in leveraging SQL, Python, and Power BI to solve real-world analytical challenges and drive data-informed decision-making.
+I specialize in leveraging **SQL, Python, and Power BI** to solve real-world analytical challenges. Alongside traditional data analytics, I have a strong interest in advanced Machine Learning, specifically Natural Language Processing (NLP), Transformers, and Generative Adversarial Networks (GANs).
 
-  🔍 **Currently**: Seeking **Data Analyst**, **Business Analyst**, or **BI Analyst** opportunities
-  📍 **Location**: India (Open to remote)
-  ⚡ **Core Strength**: Bridging technical analysis with business impact through clear communication
+🔍 **Currently Seeking**: Data Analyst, Business Analyst, or AI/ML Engineer opportunities.
+📍 **Location**: India (Open to remote)
+🗣️ **Languages**: English, Telugu 
+⚡ **Core Strength**: Bridging technical analysis with business impact through clear communication and robust data storytelling.
 
-  ---
+---
 
-  ## 🛠️ Technical Skills
+## 💼 Experience & Certifications
 
-  <div align="left">
+### **Data Science Intern** | AIMER Society
+*May 2025 – July 2025*
+* Spearheaded the development of an **AI-Powered Talking Bot**, integrating advanced machine learning techniques to facilitate natural and dynamic human-computer interactions.
+* Utilized large language models (LLMs) and tools from the **Hugging Face** ecosystem and **OpenAI** to optimize the bot's conversational accuracy and response time.
 
-  ### 📊 Data Foundations
-  <details>
-  <summary>Databases & SQL</summary>
-  <ul>
-  <li>SQL (Advanced: Window Functions, CTEs, Optimization)</li>
-  <li>MySQL • PostgreSQL • SQL Server</li>
-  <li>Database Design & Normalization</li>
-  <li>ETL Processes</li>
-  </ul>
-  </details>
+### **Certifications & Training**
+* **Google Cloud Self-Paced Labs:** Conversational Agents & Bot Building Basics (Completed April 2026)
+* **TCS NQT:** Attempted April 2026
 
-  <details>
-  <summary>Programming & Scripting</summary>
-  <ul>
-  <li>Python (Pandas, NumPy, SciPy)</li>
-  <li>Jupyter Notebooks • VS Code</li>
-  <li>Data Cleaning & Validation</li>
-  <li>Automation & Scripting</li>
-  </ul>
-  </details>
+---
 
-  ### 📈 Analysis & Visualization
-  <details>
-  <summary>Statistical Analysis</summary>
-  <ul>
-  <li>Descriptive & Inferential Statistics</li>
-  <li>Hypothesis Testing (t-tests, ANOVA, Chi-square)</li>
-  <li>Regression Analysis (Linear, Logistic)</li>
-  <li>A/B Testing & Experimental Design</li>
-  </ul>
-  </details>
+## 🛠️ Technical Skills
 
-  <details>
-  <summary>Data Visualization & BI</summary>
-  <ul>
-  <li>Microsoft Power BI (DAX, Power Query, Data Modeling)</li>
-  <li>Tableau Public (Fundamentals)</li>
-  <li>Python Viz: Matplotlib, Seaborn, Plotly</li>
-  <li>Dashboard Design & Interactive Storytelling</li>
-  </ul>
-  </details>
+<div align="left">
 
-  ### 🔧 Tools & Technologies
-  <details>
-  <summary>Workflow & Collaboration</summary>
-  <ul>
-  <li>Git & GitHub (Version Control)</li>
-  <li>Microsoft Excel (Advanced: Power Query, PivotTables)</li>
-  <li>AWS Fundamentals (S3, Glue basics)</li>
-  <li>Agile/Scrum & Jira</li>
-  <li>Data Documentation & Metadata Management</li>
-  </ul>
-  </details>
-  </div>
+### 📊 Data Foundations & Analytics
+<details>
+<summary>Databases & SQL</summary>
+<ul>
+<li>SQL (Advanced: Window Functions, CTEs, Optimization)</li>
+<li>MySQL • PostgreSQL</li>
+<li>Database Design & Normalization</li>
+</ul>
+</details>
 
-  ---
+<details>
+<summary>Programming & Scripting</summary>
+<ul>
+<li>Python (Pandas, NumPy, SciPy)</li>
+<li>Jupyter Notebooks • VS Code</li>
+<li>Data Cleaning, Validation & Automation</li>
+</ul>
+</details>
 
-  ## 💼 Featured Projects
+### 🤖 Machine Learning & AI
+<details>
+<summary>Advanced ML Concepts</summary>
+<ul>
+<li>Natural Language Processing (NLP)</li>
+<li>Generative AI & LLMs (OpenAI API, Hugging Face)</li>
+<li>Transformers & GANs</li>
+<li>Model Training & Evaluation</li>
+</ul>
+</details>
 
-  ### [Energy Consumption Analysis](https://github.com/pavan4466/energy-consumption-analysis)
-  <span style="display: inline-block; background: #0e75b6; color: white; padding: 2px 8px; border-radius: 12px; font-size: 0.8em; margin-bottom:
-  8px;">Analysis • Python • ML</span>
+### 📈 Visualization & Tools
+<details>
+<summary>BI & Version Control</summary>
+<ul>
+<li>Microsoft Power BI (DAX, Power Query, Data Modeling)</li>
+<li>Microsoft Excel (Advanced: Power Query, PivotTables)</li>
+<li>Git & GitHub (Version Control)</li>
+</ul>
+</details>
+</div>
 
-  *Global energy patterns across 45+ countries (2000-2020)*
-  - **Tech**: Python (Pandas, Scikit-learn), Matplotlib, Seaborn
-  - **Impact**: Forecasting models with 89% accuracy for renewable investment strategies
+---
 
-  ### [Smartphone Market Dashboard](https://github.com/pavan4466/smartphone-market-analysis)
-  <span style="display: inline-block; background: #0e75b6; color: white; padding: 2px 8px; border-radius: 12px; font-size: 0.8em; margin-bottom: 8px;">BI
-  • Power BI • DAX</span>
+## 🚀 Featured Projects
 
-  *Interactive dashboard for smartphone market trends (2018-2023)*
-  - **Tech**: Power BI, DAX, Power Query
-  - **Impact**: Reduced reporting time from 8h to 15m weekly for stakeholders
+### [AI-Powered Talking Bot](https://github.com/pavan4466/your-repo-link)
+<span style="display: inline-block; background: #0e75b6; color: white; padding: 2px 8px; border-radius: 12px; font-size: 0.8em; margin-bottom: 8px;">NLP • Python • Hugging Face • OpenAI</span>
 
-  ### [Purchase Prediction Model](https://github.com/pavan4466/clickstream-prediction)
-  <span style="display: inline-block; background: #0e75b6; color: white; padding: 2px 8px; border-radius: 12px; font-size: 0.8em; margin-bottom: 8px;">ML
-  • Python • Analytics</span>
+*An intelligent conversational agent built to process and respond to natural language in real-time.*
+- **Tech**: Python, OpenAI API, Hugging Face Transformers.
+- **Impact**: Demonstrated practical application of NLP and LLM prompt engineering to create a seamless user interaction loop.
 
-  *Predict purchase likelihood from clickstream data*
-  - **Tech**: Python (Scikit-learn, XGBoost), SHAP values
-  - **Impact**: 82% accuracy, optimized ad spend allocation (+22% ROI in simulation)
+### [Smartphone Market Dashboard](https://github.com/pavan4466/smartphone-market-analysis) *(Example/Placeholder)*
+<span style="display: inline-block; background: #0e75b6; color: white; padding: 2px 8px; border-radius: 12px; font-size: 0.8em; margin-bottom: 8px;">BI • Power BI • DAX</span>
 
-  ### [Movie Industry Analysis](https://github.com/pavan4466/movie-sales-analysis)
-  <span style="display: inline-block; background: #0e75b6; color: white; padding: 2px 8px; border-radius: 12px; font-size: 0.8em; margin-bottom: 8px;">SQL
-  • Python • EDA</span>
+*Interactive dashboard for smartphone market trends.*
+- **Tech**: Power BI, DAX, Power Query.
+- **Impact**: Streamlined reporting processes by visualizing complex datasets into easily digestible business metrics.
 
-  *Box office vs critical reception analysis*
-  - **Tech**: SQL (CTEs, joins), Python, Power BI
-  - **Impact**: Identified profitable genres (Animation: +47% ROI, Horror: +38% ROI)
+---
 
-  ---
+## ✍️ Publications & Tech Writing
 
-  ## 📈 GitHub Metrics
+**[Descriptive Statistics for Beginners](https://medium.com/@your-medium-link)**  
+*Published in March 2026*  
+A comprehensive guide breaking down the foundational concepts of descriptive statistics, aimed at helping aspiring data professionals understand central tendency, variance, and data distributions. 
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavan4466&show_icons=true&theme=radical&hide_border=true&count_private=true)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavan4466&layout=compact&theme=radical&hide_border=true)
-  ![Streak](https://streak-stats.demolab.com/?user=pavan4466&theme=radical&hide_border=true)
+---
 
-  ---
+## 📈 GitHub Metrics
 
-  ## 🎯 Current Learning Focus
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavan4466&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavan4466&layout=compact&theme=radical&hide_border=true)
 
-  <div align="left">
+</div>
 
-  <details>
-  <summary><b>Immediate (Next 3 Months)</b></summary>
-  <ul>
-  <li>✅ Advanced SQL Optimization</li>
-  <li>🔹 Machine Learning Fundamentals</li>
-  <li>🔹 Power BI Performance Optimization</li>
-  <li>🔹 Data Warehousing Concepts</li>
-  </ul>
-  </details>
+---
 
-  <details>
-  <summary><b>6-Month Goals</b></summary>
-  <ul>
-  <li>☁️ Cloud Data Platforms (AWS, BigQuery)</li>
-  <li>📊 Advanced Statistics</li>
-  <li>🎨 Data Storytelling Best Practices</li>
-  <li>💼 Business Acumen for Data Professionals</li>
-  </ul>
-  </details>
-  </div>
+## 📫 Let's Connect!
 
-  ---
+Whether you want to discuss descriptive statistics, the latest advancements in NLP, or potential data analytics roles, I'd love to chat.
 
-  ## 📫 Let's Connect!
+- **LinkedIn**: [linkedin.com/in/your-linkedin-id](https://linkedin.com/in/your-linkedin-id)
+- **Email**: your.email@example.com
 
-  I'm passionate about using data to solve business problems and drive outcomes. Let's connect if you need:
-
-  - A **detail-oriented Data Analyst** who asks the right questions
-  - Someone who **communicates insights clearly** to all audiences
-  - A **continuous learner** turning data into strategic advantage
-
-  **Contact:**
-  - **LinkedIn**: [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin) (Preferred)
-  - **Email**: your.email@example.com
-  - **GitHub**: [github.com/pavan4466](https://github.com/pavan4466)
-
-  ---
-
-  <!--
-  <pavan4466/pavan4466> is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-  --->
+---
