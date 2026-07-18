@@ -1,162 +1,146 @@
-<h1 align="center">Hi 👋, I'm Pavan Mallesh Vinjamuri</h1>
+  <div align="center">
 
-<h3 align="center">Aspiring Data Analyst | SQL • Python • Power BI | Turning Data into Insights</h3>
+  # Hi there, I'm Pavan Mallesh Vinjamuri 👋
 
----
+  ### Aspiring Data Analyst | SQL • Python • Power BI | Turning Data into Insights
 
-## 👨‍💻 About Me
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://
+  linkedin.com/in/your-linkedin)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github
+  .com/pavan4466)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email
+  @example.com)
 
-🎓 B.Tech in Computer Science Engineering (Data Science)
+  </div>
 
-📊 Passionate about solving real-world business problems using data.
+  ---
 
-🌱 Currently improving my skills in **SQL, Python, Power BI, and Data Analytics.**
+  ## 👨‍💻 About Me
 
-💼 Looking for **Data Analyst, Business Analyst, and Business Intelligence Analyst** opportunities.
+  I'm a **B.Tech in Computer Science Engineering (Data Science)** graduate passionate about transforming raw data into
+  actionable business insights. I specialize in leveraging SQL, Python, and Power BI to solve real-world analytical
+  challenges and drive data-informed decision-making.
 
-📍 Based in India | Open to Internship & Full-Time Opportunities
+  Currently based in India and actively seeking **Data Analyst**, **Business Analyst**, or **Business Intelligence
+  Analyst** opportunities (internship or full-time).
 
----
+  ---
 
-## 🎯 Career Objective
+  ## 🛠️ Technical Skills
 
-I'm seeking an opportunity as a **Data Analyst** where I can apply analytical thinking, SQL, Python, and visualization skills to transform data into meaningful business insights and contribute to data-driven decision-making.
+  <div align="left">
 
----
+  <details>
+  <summary><b>Databases & Querying</b></summary>
+  <ul>
+  <li>SQL (MySQL, PostgreSQL, SQL Server)</li>
+  <li>Database Design & Optimization</li>
+  <li>ETL Processes</li>
+  </ul>
+  </details>
 
-## 🛠️ Technical Skills
+  <details>
+  <summary><b>Programming & Scripting</b></summary>
+  <ul>
+  <li>Python (Pandas, NumPy, SciPy, Scikit-learn)</li>
+  <li>Jupyter Notebooks</li>
+  <li>Data Cleaning & Preprocessing</li>
+  </ul>
+  </details>
 
-### Programming
-- Python
-- SQL
+  <details>
+  <summary><b>Data Visualization & BI</b></summary>
+  <ul>
+  <li>Microsoft Power BI (DAX, Power Query)</li>
+  <li>Tableau (Basics)</li>
+  <li>Matplotlib, Seaborn, Plotly</li>
+  <li>Dashboard Design & Storytelling</li>
+  </ul>
+  </details>
 
-### Databases
-- MySQL
+  <details>
+  <summary><b>Statistical Analysis</b></summary>
+  <ul>
+  <li>Descriptive & Inferential Statistics</li>
+  <li>Hypothesis Testing</li>
+  <li>Regression Analysis</li>
+  <li>A/B Testing</li>
+  </ul>
+  </details>
 
-### Data Analysis
-- Pandas
-- NumPy
+  <details>
+  <summary><b>Tools & Technologies</b></summary>
+  <ul>
+  <li>Git & GitHub</li>
+  <li>Microsoft Excel (Advanced)</li>
+  <li>AWS Fundamentals</li>
+  <li>Agile/Scrum Methodologies</li>
+  </ul>
+  </details>
+  </div>
 
-### Data Visualization
-- Power BI
-- Matplotlib
+  ---
 
-### Tools
-- Git
-- GitHub
-- Jupyter Notebook
-- Excel
-- VS Code
+  ## 📊 Featured Projects
 
----
+  ### [World-Wide Energy Consumption Analysis](https://github.com/pavan4466/energy-consumption-analysis)
+  *Analyzed global energy consumption patterns across 40+ countries over 20 years*
+  - **Tech Stack**: Python (Pandas, NumPy), Matplotlib, Seaborn, Jupyter
+  - **Key Insights**: Identified top 5 energy-consuming countries, renewable energy adoption trends, and GDP-energy
+  correlation (r=0.78)
+  - **Impact**: Data-driven recommendations for energy policy formulation
 
-## ⭐ Featured Projects
+  ### [Smartphone Market Analysis Dashboard](https://github.com/pavan4466/smartphone-market-analysis)
+  *Interactive dashboard tracking smartphone market trends (2018-2023)*
+  - **Tech Stack**: Power BI, DAX, Power Query
+  - **Features**: Market share visualization, price trend analysis, brand performance comparison
+  - **Impact**: Enabled stakeholders to make informed inventory and marketing decisions
 
-### 🌍 World Wide Energy Consumption Analysis
-> SQL | MySQL
+  ### [Clickstream Purchase Prediction Model](https://github.com/pavan4466/clickstream-prediction)
+  *Built ML model to predict purchase likelihood from user clickstream data*
+  - **Tech Stack**: Python (Scikit-learn, XGBoost), Feature Engineering, Model Evaluation
+  - **Achievement**: 82% accuracy in predicting purchase intent from behavioral data
+  - **Application**: Optimized marketing spend through targeted user segmentation
 
-- Designed a relational database using 6 interconnected datasets.
-- Developed 17+ SQL queries to solve real-world business problems.
-- Performed emission, GDP, energy production, and population analysis.
+  ### [Movie Sales & Ratings Analysis](https://github.com/pavan4466/movie-sales-analysis)
+  *Exploratory analysis of box office performance vs. critical reception*
+  - **Tech Stack**: SQL, Python, Power BI
+  - **Findings**: Weak correlation between critic scores and box office revenue (r=0.32), strong genre-based patterns
+  - **Deliverable**: Interactive report with actionable insights for production studios
 
-🔗 Repository:
-https://github.com/pavan4466/World-Wide-Energy-Consumption-Analysis-SQL
+  ---
 
----
+  ## 📈 GitHub Stats
 
-### 📱 Smartphone Market Analysis
+  ![Pavan's GitHub
+  stats](https://github-readme-stats.vercel.app/api?username=pavan4466&show_icons=true&theme=radical&hide_border=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavan4466&layout=compact&theme=radical&hid
+  e_border=true)
 
-> Python | Pandas | Data Visualization
+  ---
 
-- Cleaned and analyzed smartphone market data.
-- Performed exploratory data analysis.
-- Identified pricing, ratings, and brand trends.
+  ## 🎯 Current Learning Goals
 
-🔗 Repository:
-https://github.com/pavan4466/smartphone-market-data-analysis
+  - [x] Advanced SQL (Window Functions, CTEs, Query Optimization)
+  - [ ] Machine Learning Fundamentals (Scikit-learn, TensorFlow basics)
+  - [ ] Advanced Power BI (Performance Optimization, Custom Visuals)
+  - [ ] Data Warehousing Concepts (Star/Snowflake Schemas)
+  - [ ] Business Storytelling & Data Presentation
 
----
+  ---
 
-### 🎬 Movie Sales Analysis Dashboard
+  ## 📫 Let's Connect!
 
-> Power BI
+  I'm always open to discussing data analytics, project collaborations, or career opportunities. Feel free to reach out:
 
-- Built an interactive dashboard.
-- Analyzed revenue, profit, customer trends, and KPIs.
-- Created business-focused visualizations.
+  - **LinkedIn**: [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)
+  - **Email**: your.email@example.com
+  - **GitHub**: [github.com/pavan4466](https://github.com/pavan4466)
 
----
+  ---
 
-### 🛒 Clickstream Purchase Prediction
-
-> Machine Learning | Python
-
-- Predicted customer purchase behavior.
-- Applied feature engineering and model evaluation.
-- Compared multiple machine learning algorithms.
-
----
-
-## 📊 Project Highlights
-
-✔ SQL Database Design
-
-✔ Data Cleaning
-
-✔ Exploratory Data Analysis
-
-✔ Dashboard Development
-
-✔ Business Insights
-
-✔ Data Visualization
-
-✔ Relational Database Modeling
-
----
-
-## 📷 Project Screenshots
-
-> Each repository contains:
-
-- Database Schema
-- ER Diagram
-- SQL Query Outputs
-- Dashboard Images
-- Presentation Slides
-- Detailed Documentation
-
----
-
-## 📚 Currently Learning
-
-- Advanced SQL
-- Power BI
-- Python for Data Analytics
-- Statistics
-- Business Intelligence
-
----
-
-## 📈 GitHub Stats
-
-![Pavan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavan4466&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavan4466&layout=compact&theme=tokyonight)
-
----
-
-## 🤝 Let's Connect
-
-📧 **Email**
-pavanvinjamuri17@gmail.com
-
-💼 **LinkedIn**
-https://www.linkedin.com/in/pavanmallesh4466/
-
-💻 **GitHub**
-https://github.com/pavan4466
-
----
-
-⭐ *Thanks for visiting my profile! Feel free to explore my projects and connect with me.*
+  <!--
+  <pavan4466/pavan4466> is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub
+  profile.
+  You can click the Preview link to take a look at your changes.
+  --->
