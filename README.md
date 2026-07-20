@@ -69,9 +69,10 @@ one thing above all: making numbers usable for the people who have to act on the
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-14151a?style=flat-square&logo=plotly&logoColor=8b5cf6)
 ![Seaborn](https://img.shields.io/badge/Seaborn-14151a?style=flat-square&logo=python&logoColor=8b5cf6)
 
-**Databases & Tooling**
-![MySQL](https://img.shields.io/badge/MySQL-14151a?style=flat-square&logo=mysql&logoColor=4479A1)
-![Git](https://img.shields.io/badge/Git-14151a?style=flat-square&logo=git&logoColor=F05032)
+**Core Competencies**
+![Relational Databases](https://img.shields.io/badge/Relational%20Databases-14151a?style=flat-square&logo=postgresql&logoColor=8b5cf6)
+![Database Analysis](https://img.shields.io/badge/Database%20Analysis-14151a?style=flat-square&logo=databricks&logoColor=8b5cf6)
+![Business Analysis Planning & Monitoring](https://img.shields.io/badge/Business%20Analysis%20Planning%20%26%20Monitoring-14151a?style=flat-square&logo=trello&logoColor=8b5cf6)
 
 ---
 
@@ -98,21 +99,21 @@ one thing above all: making numbers usable for the people who have to act on the
 <summary><b>📦 RetailPulse Analytics — Multi-Region Sales & Inventory BI Dashboard</b></summary>
 <br/>
 
-Simulated multi-region sales and inventory analytics project built to close a SQL skill
-gap and demonstrate end-to-end analyst capability — from raw data to a decision-ready
-Power BI dashboard.
+Simulated multi-region sales and inventory analytics project, currently in development,
+built to close a SQL skill gap and demonstrate end-to-end analyst capability — from raw
+data to a Power BI dashboard.
 
 | Aspect | Detail |
 |---|---|
 | Stack | SQL · Python (Pandas) · Power BI · Excel |
 | Scale | Multi-region simulated sales & inventory dataset |
 | Focus | Data cleaning, SQL querying, KPI dashboard design |
-| Reporting | Interactive Power BI dashboard with regional drill-downs |
-| Impact | Built as a portfolio-grade project targeting Data Analyst / BI Analyst / MIS Analyst roles |
-| Repository | [github.com/pavan4466](https://github.com/pavan4466) |
+| Status | In progress — structured one-week build plan |
+| Target Roles | Data Analyst / BI Analyst / Business Analyst / MIS Analyst |
+| Repository | *Add link once pushed to GitHub* |
 
-Designed around a structured one-week build plan — data setup, SQL modeling, Python-based
-cleaning, and final Power BI dashboard assembly — to mirror a real analyst workflow.
+Built around a structured one-week build plan — data setup, SQL modeling, Python-based
+cleaning, and Power BI dashboard assembly — to mirror a real analyst workflow.
 
 </details>
 
@@ -128,9 +129,8 @@ GDP, and population data across countries, built for an Innomatics analytics ass
 | Stack | SQL |
 | Scale | Country-level emission, consumption, production, GDP & population tables |
 | Focus | Comparative analysis, trend analysis, per-capita ratios, global comparisons |
-| Reporting | Query results compiled into a structured analytical report |
-| Impact | Demonstrates ability to translate business questions into SQL logic |
-| Repository | [github.com/pavan4466](https://github.com/pavan4466) |
+| Status | SQL analysis complete — final report compilation in progress |
+| Repository | *Add link once pushed to GitHub* |
 
 </details>
 
@@ -148,7 +148,7 @@ of 1,000+ UNESCO World Heritage records.
 | Focus | Data cleaning, EDA, KPI dashboard development |
 | Reporting | 3+ KPI dashboards delivered for reporting visibility |
 | Impact | Improved reporting accuracy and analytical insight for internship deliverables |
-| Repository | [github.com/pavan4466](https://github.com/pavan4466) |
+| Repository | *Add link if this internship deliverable is available publicly* |
 
 </details>
 
@@ -213,7 +213,7 @@ students and the platform's learning resources.
 **Analytics & BI**
 ![Power BI](https://img.shields.io/badge/Power%20BI-6a3093?style=flat-square&logo=powerbi&logoColor=white)
 ![Data Analytics with Tableau](https://img.shields.io/badge/Data%20Analytics%20with%20Tableau-6a3093?style=flat-square&logo=tableau&logoColor=white)
-![Data Analytics Job Simulation](https://img.shields.io/badge/Data%20Analytics%20Job%20Simulation-6a3093?style=flat-square&logo=forage&logoColor=white)
+![Data Analytics Job Simulation](https://img.shields.io/badge/Data%20Analytics%20Job%20Simulation-6a3093?style=flat-square)
 
 ---
 
@@ -222,9 +222,8 @@ students and the platform's learning resources.
 <div align="center">
 
 <a href="https://github.com/pavan4466"><img src="https://img.shields.io/badge/GitHub-pavan4466-7c3aed?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-Campus%20Mantri-2f8d46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 
-<sub>Add your LeetCode / HackerRank / CodeChef handles here once set up, and matching badges can be dropped in the same row.</sub>
+<sub>No LeetCode / HackerRank / CodeChef / GeeksforGeeks practice-profile handles on file yet — add yours here once set up, and matching badges can be dropped into this row.</sub>
 
 </div>
 
