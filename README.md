@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.com/api?type=waving&color=0:1a1a2e,50:6a3093,100:a044ff&height=220&section=header&text=Pavan%20Mallesh%20Vinjamuri&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Python%20%7C%20Tableau&descAlignY=55&descSize=18)
+<img src="https://capsule-render.com/api?type=waving&color=0:1a1a2e,50:6a3093,100:a044ff&height=220&section=header&text=Pavan%20Mallesh%20Vinjamuri&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Python%20%7C%20Tableau&descAlignY=55&descSize=18" alt="Header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+SQL+%7C+Power+BI+%7C+Python+%7C+Tableau;Turning+Raw+Data+into+Actionable+Insights;Building+Dashboards+and+Business+Reports;Open+to+Data+Analyst+and+BI+Analyst+Roles" alt="Typing SVG" />
 
@@ -236,6 +236,6 @@ Open To:
 
 **Turning raw data into clear, actionable business insights.**
 
-![Footer](https://capsule-render.com/api?type=waving&color=0:1a1a2e,50:6a3093,100:a044ff&height=120&section=footer)
+<img src="https://capsule-render.com/api?type=waving&color=0:1a1a2e,50:6a3093,100:a044ff&height=120&section=footer" alt="Footer" />
 
 </div>
