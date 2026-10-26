@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 768" width="1200" height="768" role="img" aria-labelledby="sheet-title sheet-desc">
+<title id="sheet-title">Field log — experience</title>
+<desc id="sheet-desc">Three roles: Campus Mantri at GeeksforGeeks from January 2026, Data Analytics Intern at SmartBridge from December 2025 to March 2026, and Intern at AIMERS from May to July 2024. Proof points include a Letter of Recommendation, three or more KPI dashboards, and over one thousand records analyzed.</desc>
+<style>
+    text { font-family: 'Helvetica Neue', Helvetica, Arial, 'Segoe UI', sans-serif; }
+    .nums { font-variant-numeric: tabular-nums; }
+    .rise { animation: rise 0.8s cubic-bezier(.16,1,.3,1) both; }
+    .d1 { animation-delay: 0.08s; } .d2 { animation-delay: 0.16s; }
+    .d3 { animation-delay: 0.24s; } .d4 { animation-delay: 0.32s; }
+    @keyframes rise { from { opacity: 0; } to { opacity: 1; } }
+    
+    @media (prefers-reduced-motion: reduce) {
+      .rise, .pulse { animation: none !important; opacity: 1 !important; transform: none !important; }
+      .scan { display: none !important; }
+    }
+  </style>
+<rect width="1200" height="768" fill="#0A1B2E"/>
+
+<text x="64" y="64" font-size="19" font-weight="400" fill="#9FB0BE" text-anchor="start">Analytics, reporting, and data preparation — in the order it happened.</text>
+<line x1="64" y1="88" x2="1136" y2="88" stroke="#E8E2D4" stroke-opacity="0.16" stroke-width="1"/>
+<line x1="220" y1="108" x2="220" y2="694" stroke="#E8E2D4" stroke-opacity="0.16" stroke-width="1"/>
+<g class="rise d1">
+  <text x="64" y="134" font-size="14" font-weight="600" fill="#FF6B35" text-anchor="start">Jan 2026 — Present</text>
+  <text x="64" y="156" font-size="12.5" font-weight="400" fill="#9FB0BE" text-anchor="start">Andhra Pradesh, India</text>
+  <text x="248" y="134" font-size="27" font-weight="700" fill="#E8E2D4" text-anchor="start">Campus Mantri</text>
+  <text x="248" y="160" font-size="16" font-weight="400" fill="#9FB0BE" text-anchor="start">GeeksforGeeks</text>
+  <text x="248" y="190" font-size="17.5" font-weight="400" fill="#E8E2D4" text-anchor="start">Represented GeeksforGeeks on campus and promoted technical</text>
+<text x="248" y="215" font-size="17.5" font-weight="400" fill="#E8E2D4" text-anchor="start">initiatives.</text>
+<text x="248" y="248" font-size="17.5" font-weight="400" fill="#E8E2D4" text-anchor="start">Coordinated outreach, events, and peer engagement activities.</text>
+  <text x="820" y="134" font-size="11.5" font-weight="400" fill="#9FB0BE" text-anchor="start" letter-spacing="1">ON THE RECORD</text>
+  <text x="820" y="166" font-size="20" font-weight="600" fill="#E8E2D4" text-anchor="start">Letter of Recommendation</text>
+  <text x="820" y="192" font-size="13" font-weight="400" fill="#9FB0BE" text-anchor="start">GeeksforGeeks</text>
+  <line x1="64" y1="297" x2="1136" y2="297" stroke="#E8E2D4" stroke-opacity="0.16" stroke-width="1"/>
+</g>
+<g class="rise d2">
+  <text x="64" y="351" font-size="14" font-weight="600" fill="#E8E2D4" text-anchor="start">Dec 2025 — Mar 2026</text>
+  <text x="64" y="373" font-size="12.5" font-weight="400" fill="#9FB0BE" text-anchor="start">Chirala</text>
+  <text x="248" y="351" font-size="27" font-weight="700" fill="#E8E2D4" text-anchor="start">Data Analytics Intern (Virtual)</text>
+  <text x="248" y="377" font-size="16" font-weight="400" fill="#9FB0BE" text-anchor="start">SmartBridge Educational Services</text>
+  <text x="248" y="407" font-size="17.5" font-weight="400" fill="#E8E2D4" text-anchor="start">Cleaned and transformed structured data with SQL, Excel, and</text>
+<text x="248" y="432" font-size="17.5" font-weight="400" fill="#E8E2D4" text-anchor="start">Tableau.</text>
+<text x="248" y="465" font-size="17.5" font-weight="400" fill="#E8E2D4" text-anchor="start">Built 3+ KPI dashboards and analyzed 1,000+ UNESCO records.</text>
+  <text x="820" y="351" font-size="11.5" font-weight="400" fill="#9FB0BE" text-anchor="start" letter-spacing="1">MEASURED OUTPUT</text>
+  <text x="820" y="383" font-size="20" font-weight="600" fill="#E8E2D4" text-anchor="start">3+ KPI dashboards</text>
+  <text x="820" y="409" font-size="13" font-weight="400" fill="#9FB0BE" text-anchor="start">1,000+ records analyzed</text>
+  <line x1="64" y1="514" x2="1136" y2="514" stroke="#E8E2D4" stroke-opacity="0.16" stroke-width="1"/>
+</g>
+<g class="rise d3">
+  <text x="64" y="568" font-size="14" font-weight="600" fill="#E8E2D4" text-anchor="start">May 2024 — Jul 2024</text>
+  <text x="64" y="590" font-size="12.5" font-weight="400" fill="#9FB0BE" text-anchor="start">Data preparation</text>
+  <text x="248" y="568" font-size="27" font-weight="700" fill="#E8E2D4" text-anchor="start">Intern</text>
+  <text x="248" y="594" font-size="16" font-weight="400" fill="#9FB0BE" text-anchor="start">AIMERS</text>
+  <text x="248" y="624" font-size="17.5" font-weight="400" fill="#E8E2D4" text-anchor="start">Preprocessed and validated datasets using Python and OpenCV.</text>
+<text x="248" y="657" font-size="17.5" font-weight="400" fill="#E8E2D4" text-anchor="start">Supported analytical model testing and dataset quality checks.</text>
+  <text x="820" y="568" font-size="11.5" font-weight="400" fill="#9FB0BE" text-anchor="start" letter-spacing="1">FOUNDATION</text>
+  <text x="820" y="600" font-size="20" font-weight="600" fill="#E8E2D4" text-anchor="start">Python · OpenCV</text>
+  <text x="820" y="626" font-size="13" font-weight="400" fill="#9FB0BE" text-anchor="start">Structured preprocessing</text>
+  
+</g>
+<line x1="64" y1="716" x2="1136" y2="716" stroke="#E8E2D4" stroke-opacity="0.16" stroke-width="1"/>
+<text x="64" y="738" font-size="11.5" font-weight="400" fill="#9FB0BE" text-anchor="start" letter-spacing="0.9">SOURCE / RESUME · ROLES AND OUTCOMES AS LISTED</text>
+
+</svg>

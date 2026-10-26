@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-labelledby="sheet-title sheet-desc">
+<title id="sheet-title">Connect with Pavan Mallesh Vinjamuri</title>
+<desc id="sheet-desc">Open to Data Analyst, BI Analyst, Reporting Analyst, MIS Analyst, Business Analyst roles and analytics internships. Hyderabad, India. Email pavanvinjamuri17@gmail.com. LinkedIn pavanmallesh4466. GitHub pavan4466.</desc>
+<style>
+    text { font-family: 'Helvetica Neue', Helvetica, Arial, 'Segoe UI', sans-serif; }
+    .nums { font-variant-numeric: tabular-nums; }
+    .rise { animation: rise 0.8s cubic-bezier(.16,1,.3,1) both; }
+    .d1 { animation-delay: 0.08s; } .d2 { animation-delay: 0.16s; }
+    .d3 { animation-delay: 0.24s; } .d4 { animation-delay: 0.32s; }
+    @keyframes rise { from { opacity: 0; } to { opacity: 1; } }
+    
+    @media (prefers-reduced-motion: reduce) {
+      .rise, .pulse { animation: none !important; opacity: 1 !important; transform: none !important; }
+      .scan { display: none !important; }
+    }
+  </style>
+<rect width="1200" height="340" fill="#0A1B2E"/>
+
+<g class="rise">
+  <text x="64" y="118" font-size="46" font-weight="700" fill="#E8E2D4" text-anchor="start">Let's turn your data</text>
+  <text x="64" y="166" font-size="46" font-weight="700" fill="#E8E2D4" text-anchor="start">into decisions.</text>
+</g>
+<g class="rise d1">
+  <text x="64" y="216" font-size="18" font-weight="400" fill="#9FB0BE" text-anchor="start">Open to Data Analyst, BI Analyst, Reporting, MIS, and Business Analyst</text>
+<text x="64" y="242" font-size="18" font-weight="400" fill="#9FB0BE" text-anchor="start">roles.</text>
+</g>
+<g class="rise d2">
+  <text x="760" y="104" font-size="11.5" font-weight="400" fill="#9FB0BE" text-anchor="start" letter-spacing="1">OPEN TO</text>
+  <text x="760" y="140" font-size="16" font-weight="400" fill="#E8E2D4" text-anchor="start">Data Analyst</text>
+<text x="760" y="178" font-size="16" font-weight="400" fill="#E8E2D4" text-anchor="start">BI Analyst</text>
+<text x="760" y="216" font-size="16" font-weight="400" fill="#E8E2D4" text-anchor="start">Reporting Analyst</text>
+<text x="960" y="140" font-size="16" font-weight="400" fill="#E8E2D4" text-anchor="start">MIS Analyst</text>
+<text x="960" y="178" font-size="16" font-weight="400" fill="#E8E2D4" text-anchor="start">Business Analyst</text>
+<text x="960" y="216" font-size="16" font-weight="400" fill="#E8E2D4" text-anchor="start">Analytics internships</text>
+</g>
+<line x1="64" y1="264" x2="1136" y2="264" stroke="#E8E2D4" stroke-opacity="0.3" stroke-width="1"/>
+<g class="rise d3">
+  <text x="64" y="304" font-size="14" font-weight="400" fill="#E8E2D4" text-anchor="start">Hyderabad, India</text>
+  <text x="392" y="304" font-size="14" font-weight="400" fill="#9FB0BE" text-anchor="start">pavanvinjamuri17@gmail.com</text>
+  <text x="720" y="304" font-size="14" font-weight="400" fill="#9FB0BE" text-anchor="start">linkedin.com/in/pavanmallesh4466</text>
+  <text x="1136" y="304" font-size="14" font-weight="400" fill="#9FB0BE" text-anchor="end">github.com/pavan4466</text>
+</g>
+
+</svg>

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-labelledby="sheet-title sheet-desc">
+<title id="sheet-title">Movie Sales Dashboard — project 02</title>
+<desc id="sheet-desc">Movie Sales Dashboard. Compare genre performance across revenue, ratings, and audience votes. Cleaned and modeled the dataset in Power Query. Built KPI-driven dashboards with DAX measures. Compared genre leaders across three different outcomes. Stack: Power BI, Power Query, DAX, Data modeling.</desc>
+<style>
+    text { font-family: 'Helvetica Neue', Helvetica, Arial, 'Segoe UI', sans-serif; }
+    .nums { font-variant-numeric: tabular-nums; }
+    .rise { animation: rise 0.8s cubic-bezier(.16,1,.3,1) both; }
+    .d1 { animation-delay: 0.08s; } .d2 { animation-delay: 0.16s; }
+    .d3 { animation-delay: 0.24s; } .d4 { animation-delay: 0.32s; }
+    @keyframes rise { from { opacity: 0; } to { opacity: 1; } }
+    
+    @media (prefers-reduced-motion: reduce) {
+      .rise, .pulse { animation: none !important; opacity: 1 !important; transform: none !important; }
+      .scan { display: none !important; }
+    }
+  </style>
+<rect width="1200" height="400" fill="#0A1B2E"/>
+
+<text x="64" y="40" font-size="11.5" font-weight="400" fill="#9FB0BE" text-anchor="start" letter-spacing="1">PROJECT 02 / 04</text>
+<text x="1136" y="40" font-size="11.5" font-weight="400" fill="#9FB0BE" text-anchor="end" letter-spacing="0.8">POWER BI · POWER QUERY · DAX</text>
+<text x="64" y="88" font-size="40" font-weight="700" fill="#E8E2D4" text-anchor="start">Movie Sales Dashboard</text>
+<line x1="64" y1="110" x2="1136" y2="110" stroke="#E8E2D4" stroke-opacity="0.3" stroke-width="1"/>
+
+<text x="64" y="144" font-size="11.5" font-weight="400" fill="#9FB0BE" text-anchor="start" letter-spacing="1">GOAL</text>
+<text x="64" y="174" font-size="22" font-weight="400" fill="#E8E2D4" text-anchor="start">Compare genre performance across revenue,</text>
+<text x="64" y="202" font-size="22" font-weight="400" fill="#E8E2D4" text-anchor="start">ratings, and audience votes.</text>
+
+<text x="64" y="244" font-size="11.5" font-weight="400" fill="#9FB0BE" text-anchor="start" letter-spacing="1">WHAT I DID</text>
+<text x="64" y="272" font-size="17.5" font-weight="400" fill="#E8E2D4" text-anchor="start">Cleaned and modeled the dataset in Power Query.</text>
+<text x="64" y="297" font-size="17.5" font-weight="400" fill="#E8E2D4" text-anchor="start">Built KPI-driven dashboards with DAX measures.</text>
+<text x="64" y="322" font-size="17.5" font-weight="400" fill="#E8E2D4" text-anchor="start">Compared genre leaders across three different outcomes.</text>
+
+<rect x="736" y="40" width="400" height="300" fill="#0E2438"/>
+<rect x="736" y="40" width="400" height="4" fill="#FF6B35"/>
+
+<text x="760" y="72" font-size="11.5" font-weight="400" fill="#9FB0BE" text-anchor="start" letter-spacing="1">FINDING / GENRE LEADERS</text>
+<text x="760" y="120" font-size="11.5" font-weight="400" fill="#9FB0BE" text-anchor="start" letter-spacing="0.8">Revenue</text>
+<text x="760" y="146" font-size="26" font-weight="600" fill="#E8E2D4" text-anchor="start">Action</text>
+<line x1="760" y1="162" x2="1112" y2="162" stroke="#E8E2D4" stroke-opacity="0.16" stroke-width="1"/>
+<text x="760" y="180" font-size="11.5" font-weight="400" fill="#9FB0BE" text-anchor="start" letter-spacing="0.8">Ratings</text>
+<text x="760" y="206" font-size="26" font-weight="600" fill="#E8E2D4" text-anchor="start">Biography</text>
+<line x1="760" y1="222" x2="1112" y2="222" stroke="#E8E2D4" stroke-opacity="0.16" stroke-width="1"/>
+<text x="760" y="240" font-size="11.5" font-weight="400" fill="#9FB0BE" text-anchor="start" letter-spacing="0.8">Votes</text>
+<text x="760" y="266" font-size="26" font-weight="600" fill="#E8E2D4" text-anchor="start">Drama</text>
+
+<text x="760" y="306" font-size="12" font-weight="400" fill="#9FB0BE" text-anchor="start">Three outcomes, three different leaders.</text>
+
+
+<line x1="64" y1="368" x2="1136" y2="368" stroke="#E8E2D4" stroke-opacity="0.16" stroke-width="1"/>
+<text x="64" y="388" font-size="11.5" font-weight="400" fill="#9FB0BE" text-anchor="start" letter-spacing="1">STACK</text>
+<text x="124" y="388" font-size="11.5" font-weight="400" fill="#9FB0BE" text-anchor="start">Power BI · Power Query · DAX · Data modeling</text>
+<text x="1136" y="388" font-size="11.5" font-weight="400" fill="#9FB0BE" text-anchor="end" letter-spacing="0.8">REPOSITORY / MOVIE-SALES-ANALYSIS-DASHBOARD</text>
+
+</svg>

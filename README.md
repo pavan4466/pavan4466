@@ -1,240 +1,93 @@
-<div align="center">
+<a href="https://pavan-mallesh-portfolio.vercel.app/">
+  <img src="assets/hero.svg" width="100%" alt="Vinjamuri Pavan Mallesh — data analyst in Hyderabad. I clean, query, and visualize data so teams can decide with evidence. Four analytics projects, three roles across analytics, outreach, and data preparation, CGPA 8.2 out of 10. Open to Data Analyst and BI Analyst roles.">
+</a>
 
+<p align="center">
+  <a href="mailto:pavanvinjamuri17@gmail.com" title="Email Pavan"><img src="assets/contact-email.svg" width="170" alt="Email Pavan Mallesh Vinjamuri"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/pavanmallesh4466/" title="LinkedIn"><img src="assets/contact-linkedin.svg" width="170" alt="LinkedIn profile for Pavan Mallesh Vinjamuri"></a>&nbsp;
+  <a href="https://github.com/pavan4466" title="GitHub"><img src="assets/contact-github.svg" width="170" alt="GitHub profile for pavan4466"></a>&nbsp;
+  <a href="https://pavan-mallesh-portfolio.vercel.app/" title="Portfolio"><img src="assets/contact-portfolio.svg" width="170" alt="Pavan Mallesh Vinjamuri's portfolio website"></a>
+</p>
 
+<h2><img src="assets/title-01-about.svg" width="100%" alt="01 About — An analyst trained on messy, real-world data."></h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+SQL+%7C+Power+BI+%7C+Python+%7C+Tableau;Turning+Raw+Data+into+Actionable+Insights;Building+Dashboards+and+Business+Reports;Open+to+Data+Analyst+and+BI+Analyst+Roles" alt="Typing SVG" />
+<img src="assets/about.svg" width="100%" alt="About: I like the messy part — cleaning until the pattern shows. Aspiring data analyst with hands-on experience in SQL, Python, Power BI, Tableau, and Excel. Work spans exploratory analysis, KPI reporting, dashboard development, and SQL analysis across pricing, sales, and energy data. Education: B.Tech CSE in Data Science at St. Ann's College of Engineering and Technology, class of 2026, CGPA 8.2. Based in Hyderabad and open to analyst roles.">
 
-<br/>
+<h2><img src="assets/title-02-field-log.svg" width="100%" alt="02 Field log — Three roles, each with something to show."></h2>
 
-![Location](https://img.shields.io/badge/Location-Hyderabad%2C%20India-5B21B6?style=flat-square&logo=googlemaps&logoColor=white)
-![Education](https://img.shields.io/badge/B.Tech-CSE%20(Data%20Science)-6a3093?style=flat-square&logo=googlescholar&logoColor=white)
-![Open to Work](https://img.shields.io/badge/Open%20to-Work-7C3AED?style=flat-square&logo=indeed&logoColor=white)
+<img src="assets/field-log.svg" width="100%" alt="Experience: Campus Mantri at GeeksforGeeks from January 2026, with a Letter of Recommendation. Data Analytics Intern at SmartBridge from December 2025 to March 2026, building three or more KPI dashboards from over one thousand UNESCO records. Intern at AIMERS from May to July 2024, preprocessing datasets with Python and OpenCV.">
 
-<br/>
+<h2><img src="assets/title-03-work.svg" width="100%" alt="03 Selected work — Three shipped projects. One in build."></h2>
 
-<a href="https://www.linkedin.com/in/pavanmallesh4466/"><img src="https://img.shields.io/badge/LinkedIn-Connect-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:pavanvinjamuri17@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-6d28d9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/pavan4466"><img src="https://img.shields.io/badge/GitHub-Explore-7c3aed?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/pavan4466/smartphone-market-data-analysis">
+  <img src="assets/project-01-smartphone.svg" width="100%" alt="Smartphone Market Analysis: what drives Flipkart smartphone prices. Scraped 400+ listings and modeled how RAM and storage relate to listed price, finding that they explain about 60 percent of price variance. Python, pandas, BeautifulSoup, NumPy, Matplotlib, Seaborn.">
+</a>
 
-</div>
+<p align="center"><a href="https://github.com/pavan4466/smartphone-market-data-analysis">Repository / Smartphone Market Analysis ↗</a></p>
 
----
+<a href="https://github.com/pavan4466/movie-sales-analysis-dashboard">
+  <img src="assets/project-02-movie.svg" width="100%" alt="Movie Sales Dashboard: compared genre performance across revenue, ratings, and audience votes. Action led revenue, Biography led ratings, and Drama led votes. Built with Power BI, Power Query, and DAX.">
+</a>
 
-## About Me
+<p align="center"><a href="https://github.com/pavan4466/movie-sales-analysis-dashboard">Repository / Movie Sales Dashboard ↗</a></p>
 
-```yaml
-name: "Pavan Mallesh Vinjamuri"
-role: "Data Analyst"
-education: "B.Tech CSE (Data Science), St. Ann's College of Engineering & Technology"
-graduation: "2026"
-location: "Hyderabad, India"
-focus: ["SQL", "Power BI", "Python", "Tableau", "Excel", "EDA", "ETL", "KPI Reporting"]
-```
+<a href="https://github.com/pavan4466/World-Wide-Energy-Consumption-Analysis-SQL">
+  <img src="assets/project-03-energy.svg" width="100%" alt="World Energy Consumption Analysis: a relational MySQL schema linking country-level energy use, emissions, GDP, and population. Used joins, aggregations, subqueries, and per-capita calculations to compare economic scale and fossil-fuel dependence against emissions.">
+</a>
 
-I am an aspiring **Data Analyst** with hands-on experience in **SQL, Python, Power BI, Tableau, and Excel**. I enjoy cleaning messy datasets, analyzing patterns, and building dashboards that turn raw data into clear, actionable business insights.
+<p align="center"><a href="https://github.com/pavan4466/World-Wide-Energy-Consumption-Analysis-SQL">Repository / World Energy Consumption ↗</a></p>
 
-My work includes **exploratory data analysis, KPI reporting, dashboard development, and SQL-based analysis** across pricing, sales, and energy datasets. I am currently open to **Data Analyst, BI Analyst, Reporting Analyst, MIS Analyst, and Business Analyst** opportunities.
+<img src="assets/project-04-retailpulse.svg" width="100%" alt="RetailPulse Analytics, in build: an end-to-end sales and inventory case study using SQL, Python, Power BI, and Excel. Raw data through cleaning, SQL modeling, and a Power BI report. Currently in progress.">
 
----
+<h2><img src="assets/title-04-toolkit.svg" width="100%" alt="04 Toolkit — SQL first. Then the tools that explain it."></h2>
 
-## Tech Stack
+<img src="assets/toolkit.svg" width="100%" alt="Toolkit. Query: SQL and MySQL for joins, aggregations, subqueries, and per-capita analysis. BI: Power BI, Tableau, and Excel for KPI dashboards, DAX, Power Query, and reporting. Python: pandas, NumPy, Matplotlib, Seaborn, and BeautifulSoup for cleaning, EDA, and scraping. Workflow: ETL, data modeling, and KPI reporting.">
 
-### Languages & Query
-![Python](https://img.shields.io/badge/Python-14151a?style=flat-square&logo=python&logoColor=3776AB)
-![SQL](https://img.shields.io/badge/SQL-14151a?style=flat-square&logo=postgresql&logoColor=8b5cf6)
+<h2><img src="assets/title-05-build-log.svg" width="100%" alt="05 Build log — Twelve months of activity, plotted from live data."></h2>
 
-### BI & Analytics Tools
-![Power BI](https://img.shields.io/badge/Power%20BI-14151a?style=flat-square&logo=powerbi&logoColor=F2C811)
-![Tableau](https://img.shields.io/badge/Tableau-14151a?style=flat-square&logo=tableau&logoColor=E97627)
-![Excel](https://img.shields.io/badge/Excel-14151a?style=flat-square&logo=microsoftexcel&logoColor=217346)
+<img src="assets/build-log.svg" width="100%" alt="Blueprint visualization of my GitHub contribution calendar for the last twelve months, with year totals, a legend, and a project timeline from February to October 2026. The sheet rebuilds from live GitHub data every day.">
 
-### Python Data Stack
-![Pandas](https://img.shields.io/badge/Pandas-14151a?style=flat-square&logo=pandas&logoColor=8b5cf6)
-![NumPy](https://img.shields.io/badge/NumPy-14151a?style=flat-square&logo=numpy&logoColor=8b5cf6)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-14151a?style=flat-square&logo=plotly&logoColor=8b5cf6)
-![Seaborn](https://img.shields.io/badge/Seaborn-14151a?style=flat-square&logo=python&logoColor=8b5cf6)
+<h2><img src="assets/title-06-credentials.svg" width="100%" alt="06 Credentials — Certified, recommended, and still building."></h2>
 
-### Core Skills
-![EDA](https://img.shields.io/badge/EDA-14151a?style=flat-square&logo=databricks&logoColor=8b5cf6)
-![ETL](https://img.shields.io/badge/ETL-14151a?style=flat-square&logo=apacheairflow&logoColor=8b5cf6)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-14151a?style=flat-square&logo=chartdotjs&logoColor=8b5cf6)
-![KPI Reporting](https://img.shields.io/badge/KPI%20Reporting-14151a?style=flat-square&logo=googleanalytics&logoColor=8b5cf6)
+<img src="assets/credentials.svg" width="100%" alt="Certifications: Intro to Programming Using Python; Python Programming; Power BI; Data Analytics with Tableau; and Data Analytics Job Simulation. Record: CGPA 8.2 out of 10 in B.Tech CSE Data Science, class of 2026; a Letter of Recommendation from GeeksforGeeks; four analytics projects.">
 
----
+<h2><img src="assets/title-07-connect.svg" width="100%" alt="07 Connect — Open to analyst roles across data and business."></h2>
 
-## Data Analytics Expertise
+<img src="assets/connect.svg" width="100%" alt="Let's turn your data into decisions. Open to Data Analyst, BI Analyst, Reporting Analyst, MIS Analyst, Business Analyst, and analytics internship roles. Hyderabad, India. Email pavanvinjamuri17@gmail.com, LinkedIn pavanmallesh4466, GitHub pavan4466.">
 
-| Skill | What I Use It For |
-|---|---|
-| SQL | Joins, aggregations, filtering, and multi-table analysis |
-| Power BI | KPI dashboards, DAX measures, interactive reporting |
-| Tableau | Visual storytelling and dashboard design |
-| Python | Data cleaning, preprocessing, EDA, and automation |
-| Excel | Power Query, dynamic arrays, and reporting support |
-| ETL | Cleaning, transforming, and preparing structured datasets |
+<p align="center">
+  <a href="mailto:pavanvinjamuri17@gmail.com" title="Email Pavan"><img src="assets/contact-email.svg" width="170" alt="Email Pavan Mallesh Vinjamuri"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/pavanmallesh4466/" title="LinkedIn"><img src="assets/contact-linkedin.svg" width="170" alt="LinkedIn profile for Pavan Mallesh Vinjamuri"></a>&nbsp;
+  <a href="https://github.com/pavan4466" title="GitHub"><img src="assets/contact-github.svg" width="170" alt="GitHub profile for pavan4466"></a>&nbsp;
+  <a href="https://pavan-mallesh-portfolio.vercel.app/" title="Portfolio"><img src="assets/contact-portfolio.svg" width="170" alt="Pavan Mallesh Vinjamuri's portfolio website"></a>
+</p>
 
----
+<img src="assets/footer.svg" width="100%" alt="Vinjamuri Pavan Mallesh. Raw data in. Clear decisions out. Profile blueprint, seven sections, built with SVG and live GitHub data.">
 
-## Featured Projects
+<details>
+<summary>Text version of this profile</summary>
 
-### 1) Smartphone Market Data Analysis
-**Goal:** Understand what drives smartphone prices on Flipkart.
+### Vinjamuri Pavan Mallesh
 
-- Scraped and analyzed **400+ smartphone listings**
-- Used **Python, Pandas, BeautifulSoup4, NumPy, Matplotlib, and Seaborn**
-- Found that **RAM and storage together explained ~60% of price variance**
-- Explored pricing, ratings, discount patterns, and specification trends
+Data Analyst · Hyderabad, India
 
-**Stack:** Python · Pandas · BeautifulSoup4 · NumPy · Matplotlib · Seaborn  
-**Repository:** [smartphone-market-data-analysis](https://github.com/pavan4466/smartphone-market-data-analysis)
+I clean, query, and visualize data so teams can decide with evidence.
 
----
+**Education:** B.Tech CSE (Data Science), St. Ann's College of Engineering and Technology, 2026 · CGPA 8.2/10
 
-### 2) Movie Sales Analysis Dashboard
-**Goal:** Compare movie genre performance across revenue, ratings, and audience votes.
+**Experience**
 
-- Cleaned and modeled data using **Power Query**
-- Built KPI-driven dashboards in **Power BI**
-- Used **DAX** for measures and analytical summaries
-- Found that **Action led revenue, Biography led ratings, and Drama led votes**
+- **Campus Mantri**, GeeksforGeeks — Jan 2026 to present. Campus outreach, events, and peer engagement. Letter of Recommendation.
+- **Data Analytics Intern (Virtual)**, SmartBridge Educational Services — Dec 2025 to Mar 2026. Cleaned and transformed structured data with SQL, Excel, and Tableau. Built 3+ KPI dashboards and analyzed 1,000+ UNESCO records.
+- **Intern**, AIMERS — May to Jul 2024. Preprocessed and validated datasets with Python and OpenCV. Supported model testing and dataset quality checks.
 
-**Stack:** Power BI · Power Query · DAX · Data Modeling  
-**Repository:** [movie-sales-analysis-dashboard](https://github.com/pavan4466/movie-sales-analysis-dashboard)
+**Selected projects**
 
----
+- [Smartphone Market Analysis](https://github.com/pavan4466/smartphone-market-data-analysis) — 400+ Flipkart listings; RAM and storage explain about 60% of price variance. Python, pandas, BeautifulSoup.
+- [Movie Sales Dashboard](https://github.com/pavan4466/movie-sales-analysis-dashboard) — genre leaders across revenue, ratings, and votes. Power BI, Power Query, DAX.
+- [World Energy Consumption Analysis](https://github.com/pavan4466/World-Wide-Energy-Consumption-Analysis-SQL) — country-level SQL analysis across energy, emissions, GDP, and population. MySQL.
+- **RetailPulse Analytics** — end-to-end sales and inventory case study. In build.
 
-### 3) World Wide Energy Consumption Analysis
-**Goal:** Analyze relationships between energy use, emissions, GDP, and population across countries.
+**Contact:** [pavanvinjamuri17@gmail.com](mailto:pavanvinjamuri17@gmail.com) · [LinkedIn](https://www.linkedin.com/in/pavanmallesh4466/) · [GitHub](https://github.com/pavan4466) · [Portfolio](https://pavan-mallesh-portfolio.vercel.app/)
 
-- Designed a **relational MySQL schema** for multi-table country-level analysis
-- Performed joins, aggregations, subqueries, and per-capita analysis
-- Explored how economic scale and fossil-fuel dependence relate to emissions
-- Compared countries across energy, production, GDP, and population trends
-
-**Stack:** SQL · MySQL · Relational Modeling  
-**Repository:** [World-Wide-Energy-Consumption-Analysis-SQL](https://github.com/pavan4466/World-Wide-Energy-Consumption-Analysis-SQL)
-
----
-
-### 4) RetailPulse Analytics
-**Goal:** Simulate an end-to-end sales and inventory analytics workflow.
-
-- Designed as a multi-region analytics case study
-- Focused on **data cleaning, SQL analysis, and Power BI dashboard development**
-- Built to reflect a practical analyst workflow from raw data to reporting
-- Currently in progress as a portfolio-strengthening BI project
-
-**Stack:** SQL · Python · Power BI · Excel  
-**Status:** In Progress
-
----
-
-## Experience
-
-### Campus Mantri  
-**GeeksforGeeks** · Jan 2026 – Present · Andhra Pradesh, India
-
-- Represented GeeksforGeeks on campus and promoted student participation in technical initiatives
-- Coordinated outreach, events, and peer engagement activities
-- Acted as a link between students and the platform
-- Received an official **Letter of Recommendation** for contributions and performance
-
-**Skills:** Leadership · Communication · Community Building
-
----
-
-### Data Analytics Intern (Virtual)  
-**SmartBridge Educational Services Pvt. Ltd.** · Dec 2025 – Mar 2026 · Chirala
-
-- Cleaned and transformed structured datasets using **SQL, Excel, and Tableau**
-- Built **3+ KPI dashboards** to support reporting and trend analysis
-- Performed exploratory data analysis on **1,000+ UNESCO World Heritage records**
-- Improved reporting clarity through preprocessing, analysis, and visualization
-
-**Skills:** SQL · Excel · Tableau · EDA · KPI Reporting
-
----
-
-### Intern  
-**AIMERS** · May 2024 – Jul 2024
-
-- Preprocessed and validated datasets using **Python and OpenCV**
-- Supported analytical model testing and data preparation workflows
-- Improved dataset quality through structured preprocessing techniques
-
-**Skills:** Python · OpenCV · Data Preprocessing
-
----
-
-## Achievements
-
-- **Letter of Recommendation** from GeeksforGeeks for performance as Campus Mantri
-- **CGPA: 8.2/10** in B.Tech CSE (Data Science)
-- Built projects across **SQL, Python, Power BI, Tableau, and dashboard reporting**
-
----
-
-## Certifications
-
-### Programming
-![Intro to Programming Using Python](https://img.shields.io/badge/Intro%20to%20Programming%20Using%20Python-6a3093?style=flat-square&logo=python&logoColor=white)
-![Python Programming](https://img.shields.io/badge/Python%20Programming-6a3093?style=flat-square&logo=python&logoColor=white)
-
-### Analytics & BI
-![Power BI](https://img.shields.io/badge/Power%20BI-6a3093?style=flat-square&logo=powerbi&logoColor=white)
-![Data Analytics with Tableau](https://img.shields.io/badge/Data%20Analytics%20with%20Tableau-6a3093?style=flat-square&logo=tableau&logoColor=white)
-![Data Analytics Job Simulation](https://img.shields.io/badge/Data%20Analytics%20Job%20Simulation-6a3093?style=flat-square)
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pavan4466&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=a855f7&icon_color=8b5cf6&text_color=c4b5fd" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavan4466&layout=compact&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=a855f7&text_color=c4b5fd" width="48%" />
-
-</div>
-
----
-
-## Current Focus
-
-```yaml
-Learning:
-  - Advanced SQL
-  - Power BI DAX and data modeling
-  - Python for reporting automation
-
-Building:
-  - RetailPulse Analytics dashboard project
-
-Open To:
-  - Data Analyst roles
-  - BI Analyst roles
-  - Reporting Analyst roles
-  - MIS Analyst roles
-  - Business Analyst roles
-  - Analytics internships
-```
-
----
-
-## Connect With Me
-
-<div align="center">
-
-<a href="mailto:pavanvinjamuri17@gmail.com"><img src="https://img.shields.io/badge/Gmail-6d28d9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/pavanmallesh4466/"><img src="https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/pavan4466"><img src="https://img.shields.io/badge/GitHub-7c3aed?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</div>
-
----
-
-<div align="center">
-
-**Turning raw data into clear, actionable business insights.**
-
-
-</div>
+</details>

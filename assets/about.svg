@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" width="1200" height="480" role="img" aria-labelledby="sheet-title sheet-desc">
+<title id="sheet-title">About Pavan Mallesh Vinjamuri</title>
+<desc id="sheet-desc">Aspiring data analyst with hands-on experience in SQL, Python, Power BI, Tableau and Excel. Education: B.Tech CSE in Data Science at St. Ann's College of Engineering and Technology, graduating 2026, CGPA 8.2. Based in Hyderabad, open to analyst roles.</desc>
+<style>
+    text { font-family: 'Helvetica Neue', Helvetica, Arial, 'Segoe UI', sans-serif; }
+    .nums { font-variant-numeric: tabular-nums; }
+    .rise { animation: rise 0.8s cubic-bezier(.16,1,.3,1) both; }
+    .d1 { animation-delay: 0.08s; } .d2 { animation-delay: 0.16s; }
+    .d3 { animation-delay: 0.24s; } .d4 { animation-delay: 0.32s; }
+    @keyframes rise { from { opacity: 0; } to { opacity: 1; } }
+    
+    @media (prefers-reduced-motion: reduce) {
+      .rise, .pulse { animation: none !important; opacity: 1 !important; transform: none !important; }
+      .scan { display: none !important; }
+    }
+  </style>
+<rect width="1200" height="480" fill="#0A1B2E"/>
+
+<g class="rise">
+  <text x="64" y="74" font-size="34" font-weight="700" fill="#E8E2D4" text-anchor="start">I like the messy part:</text>
+  <text x="64" y="114" font-size="34" font-weight="700" fill="#E8E2D4" text-anchor="start">cleaning until the pattern shows.</text>
+</g>
+<g class="rise d1">
+  <text x="64" y="170" font-size="19" font-weight="400" fill="#E8E2D4" text-anchor="start">I am an aspiring Data Analyst with hands-on experience in SQL,</text>
+<text x="64" y="200" font-size="19" font-weight="400" fill="#E8E2D4" text-anchor="start">Python, Power BI, Tableau, and Excel. I enjoy cleaning messy</text>
+<text x="64" y="230" font-size="19" font-weight="400" fill="#E8E2D4" text-anchor="start">datasets, analyzing patterns, and building dashboards that turn raw</text>
+<text x="64" y="260" font-size="19" font-weight="400" fill="#E8E2D4" text-anchor="start">data into clear, actionable business insights.</text>
+</g>
+<g class="rise d2">
+  <text x="64" y="292" font-size="19" font-weight="400" fill="#E8E2D4" text-anchor="start">My work spans exploratory data analysis, KPI reporting, dashboard</text>
+<text x="64" y="322" font-size="19" font-weight="400" fill="#E8E2D4" text-anchor="start">development, and SQL-based analysis across pricing, sales, and</text>
+<text x="64" y="352" font-size="19" font-weight="400" fill="#E8E2D4" text-anchor="start">energy datasets. I am open to Data Analyst, BI Analyst, Reporting</text>
+<text x="64" y="382" font-size="19" font-weight="400" fill="#E8E2D4" text-anchor="start">Analyst, MIS Analyst, and Business Analyst opportunities.</text>
+</g>
+<g class="rise d3">
+  <text x="64" y="414" font-size="11.5" font-weight="400" fill="#9FB0BE" text-anchor="start" letter-spacing="1.1">FOCUS</text>
+  <text x="64" y="438" font-size="15" font-weight="400" fill="#E8E2D4" text-anchor="start">SQL · Power BI · Python · Tableau · Excel · EDA · ETL · KPI reporting</text>
+</g>
+
+<g class="rise d2">
+  <rect x="792" y="40" width="344" height="368" fill="#0E2438"/>
+  <rect x="792" y="40" width="344" height="4" fill="#FF6B35"/>
+  <text x="816" y="76" font-size="11.5" font-weight="400" fill="#9FB0BE" text-anchor="start" letter-spacing="1">SUBJECT RECORD</text>
+  <text x="816" y="112" font-size="11.5" font-weight="400" fill="#9FB0BE" text-anchor="start" letter-spacing="1">EDUCATION</text>
+<text x="816" y="134" font-size="15.5" font-weight="600" fill="#E8E2D4" text-anchor="start">B.Tech CSE (Data Science)</text>
+<text x="816" y="154" font-size="11.5" font-weight="400" fill="#9FB0BE" text-anchor="start">St. Ann's College of Engineering &amp; Technology</text>
+<line x1="816" y1="174" x2="1112" y2="174" stroke="#E8E2D4" stroke-opacity="0.16" stroke-width="1"/>
+<text x="816" y="188" font-size="11.5" font-weight="400" fill="#9FB0BE" text-anchor="start" letter-spacing="1">GRADUATION</text>
+<text x="816" y="210" font-size="15.5" font-weight="600" fill="#E8E2D4" text-anchor="start">2026</text>
+<line x1="816" y1="230" x2="1112" y2="230" stroke="#E8E2D4" stroke-opacity="0.16" stroke-width="1"/>
+<text x="816" y="244" font-size="11.5" font-weight="400" fill="#9FB0BE" text-anchor="start" letter-spacing="1">CGPA</text>
+<text x="816" y="266" font-size="15.5" font-weight="600" fill="#E8E2D4" text-anchor="start">8.2 / 10</text>
+<line x1="816" y1="286" x2="1112" y2="286" stroke="#E8E2D4" stroke-opacity="0.16" stroke-width="1"/>
+<text x="816" y="300" font-size="11.5" font-weight="400" fill="#9FB0BE" text-anchor="start" letter-spacing="1">LOCATION</text>
+<text x="816" y="322" font-size="15.5" font-weight="600" fill="#E8E2D4" text-anchor="start">Hyderabad, India</text>
+<line x1="816" y1="342" x2="1112" y2="342" stroke="#E8E2D4" stroke-opacity="0.16" stroke-width="1"/>
+<text x="816" y="356" font-size="11.5" font-weight="400" fill="#9FB0BE" text-anchor="start" letter-spacing="1">STATUS</text>
+<text x="816" y="378" font-size="15.5" font-weight="600" fill="#FF6B35" text-anchor="start">Open to analyst roles</text>
+</g>
+
+</svg>

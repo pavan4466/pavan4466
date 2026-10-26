@@ -1,0 +1,13 @@
+{
+  "name": "pavan-profile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fetch:contributions": "node scripts/fetch-contributions.mjs",
+    "build": "node scripts/build-profile.mjs",
+    "preview": "node scripts/preview.mjs"
+  },
+  "devDependencies": {
+    "playwright-core": "^1.55.0"
+  }
+}

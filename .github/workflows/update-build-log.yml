@@ -1,0 +1,33 @@
+name: Update build log
+
+on:
+  schedule:
+    - cron: "17 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Fetch contribution calendar
+        run: node scripts/fetch-contributions.mjs
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Rebuild sheets
+        run: node scripts/build-profile.mjs
+
+      - name: Commit refreshed assets
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh build log"
+          file_pattern: "data/contributions.json assets/*.svg"
