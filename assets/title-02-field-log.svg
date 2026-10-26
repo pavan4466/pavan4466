@@ -7,10 +7,29 @@
     .rise { animation: rise 0.8s cubic-bezier(.16,1,.3,1) both; }
     .d1 { animation-delay: 0.08s; } .d2 { animation-delay: 0.16s; }
     .d3 { animation-delay: 0.24s; } .d4 { animation-delay: 0.32s; }
+    .d5 { animation-delay: 0.40s; } .d6 { animation-delay: 0.48s; }
+    .pulse { animation: pulse 2s cubic-bezier(.16,1,.3,1) infinite; }
+    .draw { animation: draw 1.2s cubic-bezier(.16,1,.3,1) both; }
+    .slide { animation: slide 0.6s cubic-bezier(.16,1,.3,1) both; }
+    .grow { animation: grow 1s cubic-bezier(.16,1,.3,1) both; }
+    .countup { animation: countUp 1.5s cubic-bezier(.16,1,.3,1) both; }
+    .shimmer { animation: shimmer 3s linear infinite; }
     @keyframes rise { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.5; } }
+    @keyframes draw { from { stroke-dashoffset: 1000; } to { stroke-dashoffset: 0; } }
+    @keyframes slide { from { opacity: 0; transform: translateX(-20px); } to { opacity: 1; transform: translateX(0); } }
+    @keyframes grow { from { transform: scaleX(0); transform-origin: left; } to { transform: scaleX(1); transform-origin: left; } }
+    @keyframes countUp { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes shimmer {
+      0% { opacity: 0.3; }
+      50% { opacity: 1; }
+      100% { opacity: 0.3; }
+    }
     
     @media (prefers-reduced-motion: reduce) {
-      .rise, .pulse { animation: none !important; opacity: 1 !important; transform: none !important; }
+      .rise, .pulse, .draw, .slide, .grow, .countup, .shimmer {
+        animation: none !important; opacity: 1 !important; transform: none !important;
+      }
       .scan { display: none !important; }
     }
   </style>
@@ -25,7 +44,7 @@
   <text x="1136" y="76" font-size="16" font-weight="400" fill="#9FB0BE" text-anchor="end">Three roles, each with something to show.</text>
 </g>
 <g class="rise d2">
-  <rect x="64" y="98" width="88" height="3" fill="#FF6B35"/>
+  <rect x="64" y="98" width="88" height="3" fill="#FF6B35" style="animation-delay: 0.3s; transform-origin: left;" class="grow"/>
 </g>
 
 </svg>

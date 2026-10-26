@@ -42,4 +42,10 @@ export const motion = {
   stagger: 0.08,
   scan: "9s",
   ease: "cubic-bezier(.16,1,.3,1)",
+  pulse: "2s",
+  draw: "1.2s",
+  slide: "0.6s",
+  grow: "1s",
+  countUp: "1.5s",
+  shimmer: "3s",
 };
