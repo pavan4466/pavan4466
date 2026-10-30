@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" width="1200" height="560" role="img" aria-labelledby="sheet-title sheet-desc">
 <title id="sheet-title">Build log — last 12 months of GitHub activity</title>
-<desc id="sheet-desc">GitHub contribution calendar for the last 12 months: 64 contributions, 11 active days, longest streak 3 days, busiest day 19 contributions on 23 Feb 2026. Project timeline from February to October 2026.</desc>
+<desc id="sheet-desc">GitHub contribution calendar for the last 12 months: 65 contributions, 12 active days, longest streak 4 days, busiest day 19 contributions on 23 Feb 2026. Project timeline from February to October 2026.</desc>
 <style>
     text { font-family: 'Helvetica Neue', Helvetica, Arial, 'Segoe UI', sans-serif; }
     .nums { font-variant-numeric: tabular-nums; }
@@ -61,7 +61,6 @@
 
 <text x="64" y="199" font-size="10.5" font-weight="400" fill="#9FB0BE" text-anchor="start">Fri</text>
 
-<rect x="96" y="162" width="11" height="11" fill="#10283D" style="animation-delay: 0.024s;"/>
 <rect x="96" y="176" width="11" height="11" fill="#10283D" style="animation-delay: 0.032s;"/>
 <rect x="96" y="190" width="11" height="11" fill="#10283D" style="animation-delay: 0.040s;"/>
 <rect x="96" y="204" width="11" height="11" fill="#10283D" style="animation-delay: 0.048s;"/>
@@ -426,7 +425,8 @@
 <rect x="824" y="134" width="11" height="11" fill="#425463" class="shimmer" style="animation-delay: 2.920s;"/>
 <rect x="824" y="148" width="11" height="11" fill="#425463" class="shimmer" style="animation-delay: 2.928s;"/>
 <rect x="824" y="162" width="11" height="11" fill="#425463" class="shimmer" style="animation-delay: 2.936s;"/>
-<rect x="824" y="176" width="11" height="11" fill="#10283D" style="animation-delay: 2.944s;"/>
+<rect x="824" y="176" width="11" height="11" fill="#425463" class="shimmer" style="animation-delay: 2.944s;"/>
+<rect x="824" y="190" width="11" height="11" fill="#10283D" style="animation-delay: 2.952s;"/>
 <text x="96" y="246" font-size="11.5" font-weight="400" fill="#9FB0BE" text-anchor="start" letter-spacing="1">LESS</text>
 <rect x="144" y="236" width="11" height="11" fill="#10283D"/><rect x="162" y="236" width="11" height="11" fill="#425463"/><rect x="180" y="236" width="11" height="11" fill="#8795A0"/><rect x="198" y="236" width="11" height="11" fill="#FF6B35"/>
 <text x="234" y="246" font-size="11.5" font-weight="400" fill="#9FB0BE" text-anchor="start" letter-spacing="1">MORE</text>
@@ -434,11 +434,11 @@
 <g class="rise d1">
   <rect x="880" y="110" width="256" height="220" fill="#0E2438"/>
   <text x="904" y="138" font-size="11.5" font-weight="400" fill="#9FB0BE" text-anchor="start" letter-spacing="1">YEAR IN NUMBERS</text>
-  <text x="904" y="196" font-size="42" font-weight="700" fill="#E8E2D4" text-anchor="start" class="nums countup">64</text>
+  <text x="904" y="196" font-size="42" font-weight="700" fill="#E8E2D4" text-anchor="start" class="nums countup">65</text>
 <text x="904" y="216" font-size="12.5" font-weight="400" fill="#9FB0BE" text-anchor="start" class="slide">contributions</text>
-<text x="1024" y="196" font-size="42" font-weight="700" fill="#E8E2D4" text-anchor="start" class="nums countup">11</text>
+<text x="1024" y="196" font-size="42" font-weight="700" fill="#E8E2D4" text-anchor="start" class="nums countup">12</text>
 <text x="1024" y="216" font-size="12.5" font-weight="400" fill="#9FB0BE" text-anchor="start" class="slide">active days</text>
-<text x="904" y="286" font-size="42" font-weight="700" fill="#E8E2D4" text-anchor="start" class="nums countup">3</text>
+<text x="904" y="286" font-size="42" font-weight="700" fill="#E8E2D4" text-anchor="start" class="nums countup">4</text>
 <text x="904" y="306" font-size="12.5" font-weight="400" fill="#9FB0BE" text-anchor="start" class="slide">day longest streak</text>
 <text x="1024" y="286" font-size="42" font-weight="700" fill="#E8E2D4" text-anchor="start" class="nums countup">19</text>
 <text x="1024" y="306" font-size="12.5" font-weight="400" fill="#9FB0BE" text-anchor="start" class="slide">busiest · 23 Feb</text>
